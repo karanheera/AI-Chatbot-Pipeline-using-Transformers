@@ -24,7 +24,7 @@ You can try the chatbot app by visiting the app interface, typing your message, 
 
 ### Prerequisites
 
-Ensure you have **Python** installed on your system. The required Python packages are listed in the `requirements.txt` file.
+Ensure you have **Python** installed on your system. The required Python packages are listed in the `requirement.txt` file.
 
 1. Clone the repository:
    ```bash
@@ -38,7 +38,7 @@ Ensure you have **Python** installed on your system. The required Python package
 
 3. Install the required dependencies using pip:
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 
 ### Running the App
