@@ -1,11 +1,11 @@
-# AI Chatbot Pipeline using Transformers BlenderBot Model
+# AI Chatbot Pipeline using Transformers
 
 ## Description
 
-This app implements a simple **AI Chatbot** using the **BlenderBot** model from Hugging Face's **Transformers** library. The chatbot is built with **Streamlit** to provide an interactive web interface where users can chat with the model. The chatbot responds to user inputs with relevant responses based on the pre-trained BlenderBot model, which is capable of understanding and generating human-like conversations.
+This app implements a simple **AI Chatbot** using the Meta **BlenderBot** model from Hugging Face's **Transformers** library. The chatbot is built with **Streamlit** to provide an interactive web interface where users can chat with the model. The chatbot responds to user inputs with relevant responses based on the pre-trained BlenderBot model, which is capable of understanding and generating human-like conversations.
 
 ### Key Features:
-- **AI Chatbot**: Chat with the AI powered by Hugging Face's BlenderBot model.
+- **AI Chatbot**: Chat with the AI powered by Hugging Face's facebook BlenderBot model.
 - **Interactive Interface**: Built with Streamlit to allow users to interact with the chatbot.
 - **Conversation History**: Keeps a log of the conversation, displaying both user inputs and chatbot responses in a continuous dialogue.
 - **Simple and User-Friendly**: Just input your message and receive instant responses.
@@ -17,7 +17,7 @@ You can try the chatbot app by visiting the app interface, typing your message, 
 ## Technologies Used
 
 - **Streamlit**: To build the interactive web interface.
-- **Hugging Face Transformers**: For utilizing the pre-trained **BlenderBot** model.
+- **Hugging Face Transformers**: For utilizing the pre-trained Meta **BlenderBot** model.
 - **Python**: The main programming language used for implementing the chatbot pipeline.
 
 ## Installation
@@ -79,7 +79,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 This project was developed using the following technologies:
 
-- **BlenderBot** from Hugging Face’s **Transformers** library. This model is used for generating chatbot responses.
+- **BlenderBot** from facebook on Hugging Face’s **Transformers** library. This model is used for generating chatbot responses.
 - **Streamlit**: A Python library that allows for easy creation of interactive web applications.
 - **Hugging Face Transformers**: A powerful library for state-of-the-art NLP models.
 - Special thanks to **DeepLearning.AI** for their amazing resources, and **Hugging Face** for providing cutting-edge transformer models.
