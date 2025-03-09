@@ -5,7 +5,7 @@
 This app implements a simple **AI Chatbot** using the Meta **BlenderBot** model from Hugging Face's **Transformers** library. The chatbot is built with **Streamlit** to provide an interactive web interface where users can chat with the model. The chatbot responds to user inputs with relevant responses based on the pre-trained BlenderBot model, which is capable of understanding and generating human-like conversations.
 
 ### Key Features:
-- **AI Chatbot**: Chat with the AI powered by Hugging Face's facebook BlenderBot model.
+- **AI Chatbot**: Chat with the AI powered Meta BlenderBot model on Hugging Face..
 - **Interactive Interface**: Built with Streamlit to allow users to interact with the chatbot.
 - **Conversation History**: Keeps a log of the conversation, displaying both user inputs and chatbot responses in a continuous dialogue.
 - **Simple and User-Friendly**: Just input your message and receive instant responses.
