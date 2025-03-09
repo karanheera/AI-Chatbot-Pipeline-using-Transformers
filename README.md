@@ -1,4 +1,4 @@
-# AI Chatbot Pipeline using Transformers
+# AI Chatbot using Transformers Pipeline
 
 ## Description
 
@@ -28,12 +28,12 @@ Ensure you have **Python** installed on your system. The required Python package
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/karanheera/AI-Chatbot-Pipeline-using-Transformers.git
+   git clone https://github.com/karanheera/AI-Chatbot-using-Transformers-Pipeline.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd AI-Chatbot-Pipeline-using-Transformers
+   cd AI-Chatbot-using-Transformers-Pipeline
    ```
 
 3. Install the required dependencies using pip:
@@ -53,7 +53,7 @@ Once the command is executed, the Streamlit app will start running on your local
 ## File Structure
 
 ```plaintext
-/AI-Chatbot-Pipeline-using-Transformers
+/AI-Chatbot-using-Transformers-Pipeline
 │
 ├── app.py              # Main app file that runs the Gradio interface and story generation logic.
 ├── CODE_OF_CONDUCT.md  # Code of conduct file.
@@ -79,10 +79,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 This project was developed using the following technologies:
 
-- **BlenderBot** from facebook on Hugging Face’s **Transformers** library. This model is used for generating chatbot responses.
+- **BlenderBot** from Meta on Hugging Face’s **Transformers** library. This model is used for generating chatbot responses.
 - **Streamlit**: A Python library that allows for easy creation of interactive web applications.
 - **Hugging Face Transformers**: A powerful library for state-of-the-art NLP models.
-- Special thanks to **DeepLearning.AI** for their amazing resources, and **Hugging Face** for providing cutting-edge transformer models.
+- Special thanks to **DeepLearning.AI** for their amazing resources, **Hugging Face** and **Meta** for providing cutting-edge transformer models.
 
 ## Contributing
 
